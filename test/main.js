@@ -215,6 +215,7 @@ describe("Routes", function(){
       request(app)
         .get("/tms/capabaseargenmap/4/5/6.png")
         .expect('etag', /.*/)
+        .expect('Content-Type', /png/)
         .expect(200)
         .end(done);
     });
