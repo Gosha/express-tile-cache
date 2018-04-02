@@ -1,4 +1,6 @@
 # express-tile-cache
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGosha%2Fexpress-tile-cache.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGosha%2Fexpress-tile-cache?ref=badge_shield)
+
  
 Express-tile-cache is a tile cacher for [TMS](http://wiki.osgeo.org/wiki/Tile_Map_Service_Specification) services.
 
@@ -291,3 +293,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGosha%2Fexpress-tile-cache.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGosha%2Fexpress-tile-cache?ref=badge_large)
